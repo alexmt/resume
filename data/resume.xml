@@ -5,7 +5,7 @@
   <pdfUrl>data/MatyushentsevAlexander.pdf</pdfUrl>
   <position>Web Developer</position>
   <summary>
-    I'm a software engineer, currently working in Mountain View, California. I have around eight years of experience in
+    I'm a software engineer, currently working in  Silicon Valley. I have around eight years of experience in
     commercial software development using various programming languages and platforms. My primary skill is web
     application development using Java on server side but also have a strong background in .NET/C#. I'm an enthusiast of
     continuous integration, test first, and agile environments. I like working on scalability, performance, design, and
@@ -28,6 +28,9 @@
           <description>
             a modular, full-featured video solution used by some of the largest companies in the world.
           </description>
+          <environment>
+            Java, Groovy, Guice, Gradle, Ruby, Sinatra, Rake, MySQL
+          </environment>
         </item>
       </projects>
     </item>

@@ -21,10 +21,16 @@ basics:
       username: amatyushentsev
       url: https://www.linkedin.com/in/amatyushentsev/
 work:
+  - company: Akuity
+    position: Co-founder and Chief Architect at Akuity
+    website: https://akuity.io
+    startDate: '2022-03-01'
+    summary: Pushing Argo to the next level.
   - company: Intuit
     position: Principal Software Engineer
     website: https://www.intuit.com/
     startDate: '2018-01-01'
+    endDate: '2022-03-01'
     summary: Help building Intuit SaaS Platform using containers and Kubernetes on AWS.
     highlights:
       - Core engineer on Argo CD and Argo Rollout projects ([http://argoproj.io/](http://argoproj.io/)).
